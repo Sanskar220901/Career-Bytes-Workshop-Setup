@@ -75,10 +75,6 @@ https://www.kopyst.com/documents/how-to-sign-up-for-claude-ai/
 
 > **Important:** After step 5, Claude may show different screens depending on your account, region, or login method. If your screen looks different, follow Claude’s on-screen instructions.
 
-### Claude Setup Screenshots
-
-Screenshots will be added here before the session.
-
 ---
 
 ## 4. Find UI Inspiration
@@ -88,12 +84,10 @@ Before building, spend a few minutes finding websites or UI examples you like. A
 **Recommended websites:**
 
 - [Awwwards](https://www.awwwards.com)
-- [Mobbin](https://mobbin.com)
 - [Dribbble](https://dribbble.com)
 - [Land-book](https://land-book.com)
-- [Refero](https://refero.design)
 
-**What to screenshot:**
+**What to look for:**
 
 - Hero sections
 - Navigation bars
@@ -126,9 +120,3 @@ This will include:
 **AI amplifies clarity.**
 
 The better your references, goals, and context, the better your output.
-
----
-
-## View on GitHub Pages
-
-To view this as a GitHub Page, enable GitHub Pages from **Settings → Pages → Deploy from branch → main → root**.
