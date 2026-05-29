@@ -1,6 +1,6 @@
-# CareerBytes AI Workshop: Claude + Lovable Setup Guide
+# CareerBytes AI Workshop: Setup Guide
 
-Welcome to the CareerBytes AI Workshop. This guide has everything you need for today’s session: Slido, Lovable setup, Claude setup, UI inspiration, and the prompt library placeholder.
+Welcome to the CareerBytes AI Workshop. This page has everything you need for today’s session: Slido, Lovable setup, Claude setup, UI inspiration, and the prompt library placeholder.
 
 ## Workshop Goal
 
@@ -11,11 +11,11 @@ Turn an idea into a live portfolio using Claude + Lovable.
 ```
 Inspiration
     ↓
-Claude — Think, plan, and refine
+Claude: think, plan, refine
     ↓
-Lovable — Build and publish
+Lovable: build and publish
     ↓
-Human Feedback — Review, improve, and iterate
+Human feedback: review, improve, iterate
     ↓
 Publish
 ```
@@ -24,9 +24,14 @@ Publish
 
 ## 1. Join Slido
 
-We will use Slido throughout the session for the icebreaker, live panel questions, AI tool usage poll, and closing reflection.
+We will use Slido for:
 
-**Join Slido here:**  
+- Opening icebreaker
+- Live panel questions
+- AI tool usage poll
+- Closing reflection
+
+**Join here:**  
 https://app.sli.do/event/7PQkMLiGJdyuFqzAPMrrEr
 
 ---
@@ -35,33 +40,44 @@ https://app.sli.do/event/7PQkMLiGJdyuFqzAPMrrEr
 
 Lovable will be used to build and publish your portfolio.
 
-**Lovable setup guide:**  
+**Setup guide:**  
 https://docs.lovable.dev/introduction/create-an-account
 
 **Expected time:** 2–3 minutes
 
 **Steps:**
 
-1. Open the setup guide
-2. Create your account
-3. Keep Lovable open for the build session
+1. Open the setup guide.
+2. Create your Lovable account.
+3. Keep Lovable open for the build session.
 
 ---
 
 ## 3. Set Up Claude
 
-Claude will be used to think through your portfolio, refine your ideas, and create stronger prompts before moving into Lovable.
+Claude will be used to plan your portfolio, refine your ideas, and create stronger prompts before moving into Lovable.
 
-**Claude setup guide:**  
-https://www.kopyst.com/documents/how-to-sign-up-for-claude-ai/
+**Go to:**  
+https://claude.ai
 
 **Expected time:** 2–3 minutes
 
-**Steps:**
+**Basic steps:**
 
-1. Open the setup guide
-2. Create your Claude account
-3. Keep Claude open for planning and prompt refinement
+1. Go to [https://claude.ai](https://claude.ai)
+2. Enter your email address.
+3. Click continue with email.
+4. Enter the verification code sent to your email.
+5. Sign in to Claude.
+
+**Optional visual reference for steps 1–5:**  
+https://www.kopyst.com/documents/how-to-sign-up-for-claude-ai/
+
+> **Important:** After step 5, Claude may show different screens depending on your account, region, or login method. If your screen looks different, follow Claude’s on-screen instructions.
+
+### Claude Setup Screenshots
+
+Screenshots will be added here before the session.
 
 ---
 
@@ -69,7 +85,7 @@ https://www.kopyst.com/documents/how-to-sign-up-for-claude-ai/
 
 Before building, spend a few minutes finding websites or UI examples you like. AI tools perform better when you give them strong references.
 
-**Recommended sites:**
+**Recommended websites:**
 
 - [Awwwards](https://www.awwwards.com)
 - [Mobbin](https://mobbin.com)
@@ -87,7 +103,7 @@ Before building, spend a few minutes finding websites or UI examples you like. A
 - Typography styles
 - Contact sections
 
-> You do not prompt your way into good design. You prompt from good design.
+**Principle:** You do not prompt your way into good design. You prompt from good design.
 
 ---
 
@@ -95,7 +111,13 @@ Before building, spend a few minutes finding websites or UI examples you like. A
 
 **Prompt Library:** [Prompt Library Link Coming Soon]
 
-The prompt library will include Claude planning prompts, Lovable build prompts, iteration prompts, portfolio section prompts, and design refinement prompts.
+This will include:
+
+- Claude planning prompts
+- Lovable build prompts
+- Iteration prompts
+- Portfolio section prompts
+- Design refinement prompts
 
 ---
 
@@ -104,3 +126,9 @@ The prompt library will include Claude planning prompts, Lovable build prompts, 
 **AI amplifies clarity.**
 
 The better your references, goals, and context, the better your output.
+
+---
+
+## View on GitHub Pages
+
+To view this as a GitHub Page, enable GitHub Pages from **Settings → Pages → Deploy from branch → main → root**.
