@@ -26,7 +26,7 @@ Your goal is to help me create the strongest possible portfolio strategy and the
 
 ---
 
-## IMPORTANT CONTEXT
+# IMPORTANT CONTEXT
 
 I am participating in a portfolio-building workshop.
 
@@ -92,7 +92,52 @@ Focus on iterative improvement.
 
 ---
 
-## RULES
+# OUTPUT EXPERIENCE REQUIREMENT
+
+Present all analysis as a visually structured artifact rather than a wall of text.
+
+Use:
+
+- Clear section headers
+- Card-style summaries
+- Stat highlights
+- Pill tags
+- Comparison tables when useful
+- Prioritized recommendations
+- Action-oriented formatting
+
+For example:
+
+- Career strengths should be displayed as highlight cards.
+- Key achievements should be displayed as metrics or stat blocks.
+- Differentiators should be displayed as tags.
+- Portfolio sections should be displayed as a structured roadmap.
+- Design recommendations should be displayed as organized visual categories.
+
+When appropriate, use:
+
+- tabs
+- cards
+- scorecards
+- recommendation panels
+- structured dashboards
+
+The experience should feel like a portfolio strategy dashboard rather than a consulting report.
+
+Avoid:
+
+- long essays
+- large blocks of text
+- generic summaries
+- excessive explanation
+
+Optimize for readability, clarity, and decision-making.
+
+The output should feel like an interactive portfolio planning workspace rather than a traditional document.
+
+---
+
+# RULES
 
 1. Assume I am using the free version of Claude.
 2. Minimize unnecessary back-and-forth.
@@ -107,28 +152,28 @@ Focus on iterative improvement.
 
 ---
 
-## TASK 1 — CAREER ANALYSIS
+# TASK 1 — CAREER ANALYSIS
 
 Review all uploaded files.
 
 Identify:
 
-- strongest experiences
-- strongest accomplishments
-- measurable achievements
-- leadership examples
-- technical skills
-- business skills
-- differentiators
-- personal brand themes
+- Strongest experiences
+- Strongest accomplishments
+- Measurable achievements
+- Leadership examples
+- Technical skills
+- Business skills
+- Differentiators
+- Personal brand themes
 
 Then determine:
 
-- what recruiters would notice first
-- what makes me memorable
-- what content deserves emphasis
-- what content should be minimized
-- what proof points are strongest
+- What recruiters would notice first
+- What makes me memorable
+- What content deserves emphasis
+- What content should be minimized
+- What proof points are strongest
 
 Do not rewrite my resume.
 
@@ -136,63 +181,63 @@ Analyze it strategically.
 
 ---
 
-## TASK 2 — DESIGN ANALYSIS
+# TASK 2 — DESIGN ANALYSIS
 
 Review all uploaded screenshots and portfolio examples.
 
 Identify:
 
-- layout patterns
-- typography style
-- spacing
-- visual hierarchy
-- color direction
-- card styles
-- interaction patterns
-- motion patterns
+- Layout patterns
+- Typography style
+- Spacing
+- Visual hierarchy
+- Color direction
+- Card styles
+- Interaction patterns
+- Motion patterns
 
 Do not copy the designs.
 
 Instead identify:
 
-- recurring patterns
-- common visual themes
-- design principles
-- user preferences
+- Recurring patterns
+- Common visual themes
+- Design principles
+- User preferences
 
 Recommend one cohesive design direction.
 
 ---
 
-## TASK 3 — PORTFOLIO STRATEGY
+# TASK 3 — PORTFOLIO STRATEGY
 
 Determine:
 
-### Target Audience
+## Target Audience
 
 Who should this portfolio be optimized for?
 
 Examples:
 
-- recruiters
-- hiring managers
-- consulting firms
-- startups
-- clients
+- Recruiters
+- Hiring managers
+- Consulting firms
+- Startups
+- Clients
 
-### Main Goal
+## Main Goal
 
 What outcome should the portfolio drive?
 
 Examples:
 
-- interviews
-- networking
-- credibility
-- freelance work
-- job offers
+- Interviews
+- Networking
+- Credibility
+- Freelance work
+- Job offers
 
-### Primary CTA
+## Primary CTA
 
 Recommend one clear call-to-action.
 
@@ -203,7 +248,7 @@ Examples:
 - Book a Call
 - Download Resume
 
-### User Journey
+## User Journey
 
 Create the ideal visitor journey.
 
@@ -221,13 +266,13 @@ Modify this structure if a stronger architecture exists.
 
 For every section explain:
 
-- purpose
-- content
-- visitor takeaway
+- Purpose
+- Content
+- Visitor takeaway
 
 ---
 
-## TASK 4 — DESIGN DIRECTION
+# TASK 4 — DESIGN DIRECTION
 
 Choose ONE primary direction:
 
@@ -239,96 +284,107 @@ Explain why.
 
 Then provide:
 
-### Aesthetic Keywords
+## Aesthetic Keywords
 
 Choose 3–5.
 
 Examples:
 
-- premium
-- cinematic
-- editorial
-- expressive
-- minimal
-- glassmorphism
-- high-contrast
-- generous whitespace
+- Premium
+- Cinematic
+- Editorial
+- Expressive
+- Minimal
+- Glassmorphism
+- High-contrast
+- Generous whitespace
+- Modern
+- Refined
 
-### Visual Recommendations
+## Visual Recommendations
 
 Recommend:
 
-- typography
-- spacing
-- layout
-- colors
-- imagery
-- motion
-- interactions
+- Typography
+- Spacing
+- Layout
+- Colors
+- Imagery
+- Motion
+- Interactions
 
 Keep recommendations aligned with the uploaded inspiration.
 
 ---
 
-## TASK 5 — GENERATE LOVABLE PROMPT
+# TASK 5 — HIGH-IMPACT OPPORTUNITIES
+
+Before generating the Lovable prompt, identify the top 3 opportunities that will have the biggest impact on this portfolio.
+
+Focus on leverage, not perfection.
+
+For each opportunity explain:
+
+- Why it matters
+- Expected impact
+- Recommended action
+
+Prioritize:
+
+- Clarity
+- Storytelling
+- Credibility
+- Differentiation
+- Recruiter engagement
+
+---
+
+# TASK 6 — GENERATE LOVABLE PROMPT
 
 Generate ONE complete Lovable prompt.
 
 The Lovable prompt should:
 
-- use real content from my profile
-- use the selected design direction
-- use the recommended user journey
-- include detailed section-by-section guidance
-- include component descriptions
-- include layout recommendations
-- include visual hierarchy guidance
-- include interaction recommendations
-- avoid generic instructions
+- Use real content from my profile
+- Use the selected design direction
+- Use the recommended user journey
+- Include detailed section-by-section guidance
+- Include component descriptions
+- Include layout recommendations
+- Include visual hierarchy guidance
+- Include interaction recommendations
+- Avoid generic instructions
 
 Be highly specific.
 
 Describe:
 
-- sections
-- cards
-- grids
-- layouts
-- spacing
-- typography
-- interactions
-- animations
-- hierarchy
+- Sections
+- Cards
+- Grids
+- Layouts
+- Spacing
+- Typography
+- Interactions
+- Animations
+- Hierarchy
 
 The prompt should be immediately usable inside Lovable.
 
----
+Also remind me to upload the following assets into Lovable:
 
-## TASK 6 — LOVABLE FILE CHECKLIST
+- Resume
+- LinkedIn PDF
+- Headshot
+- Inspiration screenshots
 
-At the end provide a checklist of files I should also upload into Lovable.
-
-Examples:
-
-✅ Resume
-
-✅ LinkedIn PDF
-
-✅ Headshot
-
-✅ Inspiration Screenshot 1
-
-✅ Inspiration Screenshot 2
-
-✅ Inspiration Screenshot 3
-
-For each file explain why Lovable should receive it.
+Explain why each asset helps improve the output.
 
 ---
 
-## TASK 7 — ITERATION SYSTEM
+# TASK 7 — LOVABLE ITERATION SYSTEM
 
-At the end of every Lovable prompt you generate, include this instruction:
+At the end of every Lovable prompt you generate, include the following instruction:
 
 "After implementing these changes, provide:
 
@@ -344,20 +400,52 @@ Provide the summary in plain English suitable for portfolio review."
 
 This summary will be brought back into Claude for the next iteration.
 
+The goal is to create a continuous improvement loop between Claude and Lovable.
+
 ---
 
-## FINAL OUTPUT FORMAT
+# TASK 8 — LOVABLE FILE CHECKLIST
+
+Provide a checklist of files I should upload into Lovable.
+
+Examples:
+
+✅ Resume
+
+✅ LinkedIn PDF
+
+✅ Headshot
+
+✅ Inspiration Screenshot 1
+
+✅ Inspiration Screenshot 2
+
+✅ Inspiration Screenshot 3
+
+For each file explain:
+
+- Why it should be uploaded
+- What information Lovable can use from it
+- How it improves the final portfolio
+
+---
+
+# FINAL OUTPUT FORMAT
 
 Provide:
 
-1. Career Analysis
-2. Design Analysis
-3. Portfolio Strategy
-4. Design Direction
-5. Complete Lovable Prompt
-6. Lovable Upload Checklist
-7. Maximum 3 clarifying questions (only if critical information is missing)
+1. Executive Summary
+2. Career Analysis
+3. Design Analysis
+4. Portfolio Strategy
+5. Design Direction
+6. Top 3 High-Impact Opportunities
+7. Complete Lovable Prompt
+8. Lovable Upload Checklist
+9. Maximum 3 clarifying questions (only if critical information is missing)
 
 Goal:
 
 Create a portfolio that feels intentional, credible, memorable, recruiter-focused, visually cohesive, and custom rather than generic or AI-generated.
+
+The final result should help me move from strategy → build → iterate → publish as efficiently as possible.
