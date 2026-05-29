@@ -40,16 +40,23 @@ https://app.sli.do/event/7PQkMLiGJdyuFqzAPMrrEr
 
 Lovable will be used to build and publish your portfolio.
 
-**Setup guide:**  
-https://docs.lovable.dev/introduction/create-an-account
+**Go to:** [https://lovable.dev](https://lovable.dev)
 
-**Expected time:** 2–3 minutes
+**Expected time:** 5–10 minutes
 
-**Steps:**
+### How to apply the code
 
-1. Open the setup guide.
-2. Create your Lovable account.
-3. Keep Lovable open for the build session.
+1. Go to [lovable.dev](https://lovable.dev)
+2. If you don’t have an account, click **Get started** → create an account.
+3. If you have an account, go to **Settings → Plans & Credits**.
+4. Select **Pro Plan 1** (100 credits). Choose the **monthly** plan.
+5. At checkout, enter your discount code: `COMM-BRAINSBOTS-5SM3`
+
+**Already on a paid plan?** Create a new workspace to redeem the code.
+
+> **Note:** You may be asked to enter payment details. You have one month to cancel, and you can cancel as soon as your account is activated.
+
+Keep Lovable open for the build session.
 
 ---
 
