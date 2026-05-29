@@ -115,6 +115,114 @@ This will include:
 
 ---
 
+## 6. Create a Professional Headshot (Optional)
+
+Need a polished headshot for your portfolio but only have casual photos? Use [Google AI Studio](https://aistudio.google.com/) to generate a realistic professional portrait from **1–3 photos of yourself**.
+
+**Expected time:** 5–10 minutes
+
+### How to use Google AI Studio
+
+1. Open [https://aistudio.google.com/](https://aistudio.google.com/)
+2. Sign in with your Google account.
+3. Start a new prompt or open the chat/playground view.
+4. Choose a model that supports **image generation** and **image upload** (e.g. a Gemini model with image output).
+5. Upload **1–3 clear photos** of yourself (face visible, good lighting, minimal filters). More angles help; one good front-facing photo can work too.
+6. Copy the headshot prompt below and paste it into the prompt box.
+7. Run the prompt and wait for the result.
+8. Download the image you like best and use it in your portfolio.
+
+**Tips for better results:**
+
+- Use recent photos where your face is easy to see.
+- Avoid sunglasses, heavy filters, or group shots.
+- If the result does not look like you, try again with different photos or a clearer front-facing image.
+
+### Headshot prompt (copy and paste)
+
+Use this prompt as-is after uploading your photos:
+
+```text
+You are an expert AI portrait photographer and professional headshot retoucher.
+
+I will upload 1–3 reference images of the SAME person (different angles or lighting if available). Your task is to analyze all uploaded images together and generate ONE final professional headshot that preserves the person’s real identity as accurately as possible.
+
+PRIMARY OBJECTIVE:
+Create a highly realistic, premium-quality LinkedIn / executive corporate headshot that looks like it was captured using a professional DSLR camera in a real photography studio.
+
+IDENTITY PRESERVATION (VERY IMPORTANT):
+- Preserve the exact facial identity, facial structure, skin tone, hairstyle, beard density, eye shape, and natural proportions from the uploaded images.
+- Do NOT beautify excessively.
+- Do NOT change ethnicity, age, face shape, or core features.
+- The final image must still clearly look like the same real person.
+- Avoid “AI face” artifacts or plastic-looking skin.
+- Maintain realistic pores, texture, and facial detail.
+
+STYLE & AESTHETIC:
+- Modern enterprise professional aesthetic
+- Corporate executive / consultant / enterprise AI professional vibe
+- Polished but approachable
+- Premium LinkedIn profile quality
+- Subtle confidence and professionalism
+- Natural expression with a slight smile
+
+WARDROBE:
+- Dark navy blazer or black blazer
+- Clean white or neutral shirt underneath
+- Minimalistic, elegant, modern corporate styling
+- No flashy fashion or exaggerated luxury aesthetics
+
+LIGHTING:
+- Soft professional studio lighting
+- Cinematic but realistic
+- Balanced shadows
+- Sharp facial clarity
+- Natural skin tones
+- DSLR photography look
+- Shallow depth of field
+
+BACKGROUND:
+- Clean premium corporate background
+- Neutral gray, soft charcoal, muted office blur, or elegant studio backdrop
+- Minimal distractions
+- Professional LinkedIn-compatible composition
+
+CAMERA & QUALITY:
+- Hyper realistic
+- DSLR portrait photography
+- 85mm lens look
+- High detail
+- Sharp focus on eyes and face
+- Professional color grading
+- Natural dynamic range
+
+COMPOSITION:
+- Chest-up framing
+- Centered portrait
+- LinkedIn-ready crop
+- Eye-level angle
+- Professional posture
+
+IMPORTANT NEGATIVE CONSTRAINTS:
+- No cartoon/anime/stylized output
+- No fake-looking skin smoothing
+- No over-sharpening
+- No exaggerated jawline edits
+- No unrealistic teeth whitening
+- No distorted hands/body
+- No overly cinematic Hollywood look
+- No luxury influencer aesthetic
+- No fake AI glow
+- No unrealistic symmetry
+
+FINAL GOAL:
+The final image should look indistinguishable from a real professionally photographed executive headshot taken for a Fortune 500 corporate profile or enterprise technology leadership profile.
+
+Generate only ONE best final headshot.
+```
+
+---
+
 ## Key Principle
 
 **AI amplifies clarity.**
