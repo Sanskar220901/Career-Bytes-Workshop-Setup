@@ -101,9 +101,9 @@ Before building, spend a few minutes finding websites or UI examples you like. A
 
 ---
 
-## 5. Claude Portfolio Architect
+## 5. CareerBytes Portfolio Architect
 
-Use this prompt in Claude **after** you have UI inspiration and your career files ready. It helps you plan your portfolio and generate a Lovable-ready build prompt.
+Use this prompt in Claude **after** you have UI inspiration and your career files ready. It plans your portfolio strategy, generates Lovable build prompts, and supports iteration after each Lovable round.
 
 **Download:** [claude-portfolio-architect.md](claude-portfolio-architect.md)  
 *(On GitHub: open the file → click the download icon, or right-click the link and choose **Save link as…**.)*
@@ -114,6 +114,7 @@ Use this prompt in Claude **after** you have UI inspiration and your career file
 2. In Claude, upload your resume, LinkedIn PDF, headshot, and UI inspiration screenshots.
 3. Open the `.md` file, copy the full prompt, and paste it into Claude.
 4. Review Claude’s output, then move to Lovable with the generated build prompt.
+5. After each Lovable build, bring the summary back to Claude for the next iteration prompt.
 
 ---
 
