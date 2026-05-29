@@ -75,6 +75,20 @@ https://www.kopyst.com/documents/how-to-sign-up-for-claude-ai/
 
 > **Important:** After step 5, Claude may show different screens depending on your account, region, or login method. If your screen looks different, follow Claude’s on-screen instructions.
 
+### Claude Portfolio Architect prompt
+
+After you sign in, use this prompt to plan your portfolio before Lovable.
+
+**Download:** [Claude Portfolio Architect.md](claude-portfolio-architect.md)  
+*(On GitHub: open the file → click the download icon, or right-click the link and choose **Save link as…**.)*
+
+**How to use:**
+
+1. Download [claude-portfolio-architect.md](claude-portfolio-architect.md).
+2. In Claude, upload your resume, LinkedIn PDF, headshot, and UI inspiration screenshots.
+3. Open the `.md` file, copy the full prompt, and paste it into Claude.
+4. Review Claude’s output, then move to Lovable with the generated build prompt.
+
 ---
 
 ## 4. Find UI Inspiration
