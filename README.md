@@ -1,6 +1,6 @@
 # CareerBytes AI Workshop: Setup Guide
 
-Welcome to the CareerBytes AI Workshop. This page has everything you need for today’s session: Slido, Lovable setup, Claude setup, UI inspiration, and the prompt library placeholder.
+Welcome to the CareerBytes AI Workshop. This page has everything you need for today’s session: Slido, Lovable setup, Claude setup, UI inspiration, portfolio planning prompts, and an optional headshot guide.
 
 ## Workshop Goal
 
@@ -75,20 +75,6 @@ https://www.kopyst.com/documents/how-to-sign-up-for-claude-ai/
 
 > **Important:** After step 5, Claude may show different screens depending on your account, region, or login method. If your screen looks different, follow Claude’s on-screen instructions.
 
-### Claude Portfolio Architect prompt
-
-After you sign in, use this prompt to plan your portfolio before Lovable.
-
-**Download:** [Claude Portfolio Architect.md](claude-portfolio-architect.md)  
-*(On GitHub: open the file → click the download icon, or right-click the link and choose **Save link as…**.)*
-
-**How to use:**
-
-1. Download [claude-portfolio-architect.md](claude-portfolio-architect.md).
-2. In Claude, upload your resume, LinkedIn PDF, headshot, and UI inspiration screenshots.
-3. Open the `.md` file, copy the full prompt, and paste it into Claude.
-4. Review Claude’s output, then move to Lovable with the generated build prompt.
-
 ---
 
 ## 4. Find UI Inspiration
@@ -115,17 +101,19 @@ Before building, spend a few minutes finding websites or UI examples you like. A
 
 ---
 
-## 5. Prompt Library
+## 5. Claude Portfolio Architect
 
-**Prompt Library:** [Prompt Library Link Coming Soon]
+Use this prompt in Claude **after** you have UI inspiration and your career files ready. It helps you plan your portfolio and generate a Lovable-ready build prompt.
 
-This will include:
+**Download:** [claude-portfolio-architect.md](claude-portfolio-architect.md)  
+*(On GitHub: open the file → click the download icon, or right-click the link and choose **Save link as…**.)*
 
-- Claude planning prompts
-- Lovable build prompts
-- Iteration prompts
-- Portfolio section prompts
-- Design refinement prompts
+**How to use:**
+
+1. Download [claude-portfolio-architect.md](claude-portfolio-architect.md).
+2. In Claude, upload your resume, LinkedIn PDF, headshot, and UI inspiration screenshots.
+3. Open the `.md` file, copy the full prompt, and paste it into Claude.
+4. Review Claude’s output, then move to Lovable with the generated build prompt.
 
 ---
 
@@ -142,7 +130,7 @@ Need a polished headshot for your portfolio but only have casual photos? Use [Go
 3. Start a new prompt or open the chat/playground view.
 4. Choose a model that supports **image generation** and **image upload** (e.g. a Gemini model with image output).
 5. Upload **1–3 clear photos** of yourself (face visible, good lighting, minimal filters). More angles help; one good front-facing photo can work too.
-6. Copy the headshot prompt below and paste it into the prompt box.
+6. Download and paste the headshot prompt (see below).
 7. Run the prompt and wait for the result.
 8. Download the image you like best and use it in your portfolio.
 
@@ -152,88 +140,14 @@ Need a polished headshot for your portfolio but only have casual photos? Use [Go
 - Avoid sunglasses, heavy filters, or group shots.
 - If the result does not look like you, try again with different photos or a clearer front-facing image.
 
-### Headshot prompt (copy and paste)
+### Headshot prompt
 
-Use this prompt as-is after uploading your photos:
+**Download:** [google-ai-studio-headshot.md](google-ai-studio-headshot.md)  
+*(On GitHub: open the file → click the download icon, or right-click the link and choose **Save link as…**.)*
 
-```text
-You are an expert AI portrait photographer and professional headshot retoucher.
-
-I will upload 1–3 reference images of the SAME person (different angles or lighting if available). Your task is to analyze all uploaded images together and generate ONE final professional headshot that preserves the person’s real identity as accurately as possible.
-
-PRIMARY OBJECTIVE:
-Create a highly realistic, premium-quality LinkedIn / executive corporate headshot that looks like it was captured using a professional DSLR camera in a real photography studio.
-
-IDENTITY PRESERVATION (VERY IMPORTANT):
-- Preserve the exact facial identity, facial structure, skin tone, hairstyle, beard density, eye shape, and natural proportions from the uploaded images.
-- Do NOT beautify excessively.
-- Do NOT change ethnicity, age, face shape, or core features.
-- The final image must still clearly look like the same real person.
-- Avoid “AI face” artifacts or plastic-looking skin.
-- Maintain realistic pores, texture, and facial detail.
-
-STYLE & AESTHETIC:
-- Modern enterprise professional aesthetic
-- Corporate executive / consultant / enterprise AI professional vibe
-- Polished but approachable
-- Premium LinkedIn profile quality
-- Subtle confidence and professionalism
-- Natural expression with a slight smile
-
-WARDROBE:
-- Dark navy blazer or black blazer
-- Clean white or neutral shirt underneath
-- Minimalistic, elegant, modern corporate styling
-- No flashy fashion or exaggerated luxury aesthetics
-
-LIGHTING:
-- Soft professional studio lighting
-- Cinematic but realistic
-- Balanced shadows
-- Sharp facial clarity
-- Natural skin tones
-- DSLR photography look
-- Shallow depth of field
-
-BACKGROUND:
-- Clean premium corporate background
-- Neutral gray, soft charcoal, muted office blur, or elegant studio backdrop
-- Minimal distractions
-- Professional LinkedIn-compatible composition
-
-CAMERA & QUALITY:
-- Hyper realistic
-- DSLR portrait photography
-- 85mm lens look
-- High detail
-- Sharp focus on eyes and face
-- Professional color grading
-- Natural dynamic range
-
-COMPOSITION:
-- Chest-up framing
-- Centered portrait
-- LinkedIn-ready crop
-- Eye-level angle
-- Professional posture
-
-IMPORTANT NEGATIVE CONSTRAINTS:
-- No cartoon/anime/stylized output
-- No fake-looking skin smoothing
-- No over-sharpening
-- No exaggerated jawline edits
-- No unrealistic teeth whitening
-- No distorted hands/body
-- No overly cinematic Hollywood look
-- No luxury influencer aesthetic
-- No fake AI glow
-- No unrealistic symmetry
-
-FINAL GOAL:
-The final image should look indistinguishable from a real professionally photographed executive headshot taken for a Fortune 500 corporate profile or enterprise technology leadership profile.
-
-Generate only ONE best final headshot.
-```
+1. Download [google-ai-studio-headshot.md](google-ai-studio-headshot.md).
+2. Upload your photos in Google AI Studio.
+3. Copy the full prompt from the file and paste it into the prompt box.
 
 ---
 
