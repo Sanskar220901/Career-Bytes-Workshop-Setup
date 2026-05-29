@@ -127,12 +127,13 @@ Need a polished headshot for your portfolio but only have casual photos? Use [Go
 
 1. Open [https://aistudio.google.com/](https://aistudio.google.com/)
 2. Sign in with your Google account.
-3. Start a new prompt or open the chat/playground view.
-4. Choose a model that supports **image generation** and **image upload** (e.g. a Gemini model with image output).
+3. Select **Image Generation**.
+4. Choose **Nano Banana** as the model.
 5. Upload **1–3 clear photos** of yourself (face visible, good lighting, minimal filters). More angles help; one good front-facing photo can work too.
 6. Download and paste the headshot prompt (see below).
-7. Run the prompt and wait for the result.
-8. Download the image you like best and use it in your portfolio.
+7. Set **temperature** to **0.2–0.3**.
+8. Run the prompt and wait for the result.
+9. Download the image you like best and use it in your portfolio.
 
 **Tips for better results:**
 
@@ -146,8 +147,9 @@ Need a polished headshot for your portfolio but only have casual photos? Use [Go
 *(On GitHub: open the file → click the download icon, or right-click the link and choose **Save link as…**.)*
 
 1. Download [google-ai-studio-headshot.md](google-ai-studio-headshot.md).
-2. Upload your photos in Google AI Studio.
+2. In **Image Generation** with **Nano Banana**, upload your photos.
 3. Copy the full prompt from the file and paste it into the prompt box.
+4. Set temperature to **0.2–0.3**, then generate.
 
 ---
 
